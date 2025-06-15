@@ -1,7 +1,5 @@
 # Natural Language to SQL RAG Pipeline (Air-Gapped)
 
----
-
 **GitHub Username:** [machinematics](https://github.com/machinematics)
 
 **Project Guide on Medium:** [Natural Language to SQL RAG Pipeline (Air-Gapped)](https://medium.com/@machinematics/natural-language-to-sql-rag-pipeline-air-gapped-5c911ee2f718)
