@@ -1,5 +1,11 @@
 # Natural Language to SQL RAG Pipeline (Air-Gapped)
 
+---
+
+**GitHub Username:** [machinematics](https://github.com/machinematics)
+
+**Project Guide on Medium:** [Natural Language to SQL RAG Pipeline (Air-Gapped)](https://medium.com/@machinematics/natural-language-to-sql-rag-pipeline-air-gapped-5c911ee2f718)
+
 ## Overview
 
 This repository presents a robust, two-part Retrieval Augmented Generation (RAG) pipeline designed to translate natural language questions into executable SQLite SQL queries. A key feature of this solution is its ability to operate in an "air-gapped" (offline) environment once initial models and embeddings are set up, making it ideal for secure and disconnected deployment scenarios.
