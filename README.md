@@ -2,7 +2,7 @@
 
 **Follow us at:** [machinematics](https://github.com/machinematics)
 
-**Project Guide on Medium:** [Natural Language to SQL RAG Pipeline (Air-Gapped)](https://medium.com/@machinematics/natural-language-to-sql-rag-pipeline-air-gapped-5c911ee2f718)
+**Project Guide on Medium:** [Natural Language to SQL RAG Pipeline (Air-Gapped)](https://medium.com/@machinematics/building-a-secure-rag-pipeline-for-text-to-sql-generation-in-air-gapped-environments-using-chromadb-2aa47dabfb58)
 
 ## Overview
 
